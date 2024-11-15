@@ -22,3 +22,6 @@ git push --force-with-lease origin main
 ```
 git log --word-diff -p .\function\common.py
 ```
+
+## .gitignore でファイルの追跡を除外したい時
+$ git rm <FILE_NAME>
